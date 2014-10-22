@@ -1,0 +1,253 @@
+#query {
+	clear: right;
+	margin-bottom: 50px;
+	vertical-align: middle;
+}
+
+#query input.number {
+	width: 35px;
+}
+
+#query input.text {
+	width: 140px;
+}
+
+#query .fieldbox {
+	display: block;
+	float: left;
+	padding: 0 5px 0 5px;
+	height: 40px;
+}
+
+#query .fieldbox.buttons {
+	padding-top: 15px;
+	float: right;
+}
+
+#query .fieldbox label.title {
+	display: block;
+	font-weight: bold;
+}
+.ui-button {
+	font-size: 0.8em;
+}
+
+#query .fieldbox.new {
+	color: #ee0000;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.ui-helper-reset {
+	font-size: 0.8em;
+}
+
+#resultShare {
+	display: none;
+	padding: 0px 5px 0px 5px;
+	margin: 0 0 15px 0;
+	font-size: 0.8em;
+	background-color: #fffec9;
+	border: 1px solid #d0d039;
+}
+
+#resultShare.top {
+	width: 100%;
+	float: middle;
+	clear: both;
+}
+
+#resultShare.red {
+	background: #ffb7b7;
+	border: 1px solid #bb0000;
+}
+
+#resultShare.side {
+	width: 180px;
+	float: right;
+	clear: right;
+}
+
+#resultShare h3 {
+	font-size: 1.1em;
+}
+
+#resultsTable {
+	border-spacing: 0px;
+}
+
+#resultsTable a {
+	text-decoration: none;
+}
+
+#resultsTable a:hover {
+	text-decoration: underline;
+}
+
+#resultsTable tr:hover {
+	background-color: #cdf1ce;
+	margin: 100px 0px 100px 0px;
+}
+
+#resultsTable td,th {
+	padding: 1px 8px 1px 8px;
+}
+
+#resultsTable .race1 a {
+	color: #bb0000;
+}
+
+#resultsTable .race2 a {
+	color: #1a0db8;
+}
+
+#resultsTable .race3 a {
+	color: #006F16;
+}
+
+#resultsTable th {
+	text-align: left;
+	font-size: 0.8em;
+	font-weight: bold;
+}
+
+#resultsTable td.color {
+	width: 5px;
+}
+
+#resultsTable td.number {
+	text-align: right;
+}
+
+#resultsTable .coord {
+	text-align: center;
+}
+
+#resultsTable .actions a {
+	text-decoration: none;
+	float: left;
+	display: block;
+	padding: 0 2px 0 2px;
+	text-indent: -9999999px;
+}
+
+#resultsTable .actions .map {
+	background: url('/img/map.png') left no-repeat;
+	height: 16px;
+	width: 16px;
+}
+
+#resultsTable .actions .sendunits {
+	background: url('/img/att_all.gif') left no-repeat;
+	height: 16px;
+	width: 16px;
+}
+
+#resultsTable .actions .source {
+	background: url('/img/planner-left.png') left no-repeat;
+	height: 16px;
+	width: 16px;
+}
+
+#resultsTable .actions .target {
+	background: url('/img/planner-right.png') left no-repeat;
+	height: 16px;
+	width: 16px;
+}
+
+#resultsTable .growing {
+	color: #147600;
+}
+
+#resultsTable .shrinking {
+	color: #bb0000;
+}
+
+#resultsTable .idle {
+	color: #bb0000;
+	font-style: italic;
+}
+
+#main_container {
+	height: 70%;
+}
+.pageContent h1 {
+	font-size: 1.5em;
+}
+.pageContent h2 {
+	font-size: 1.4em;
+}
+.pageContent h3 {
+	font-size: 1.3em;
+}
+.pageContent h4 {
+	font-size: 1.2em;
+}
+
+.pageContent .examples {
+	float: right;
+	display: block;
+	clear: right;
+	list-style-type: square;
+}
+
+/* Attack planner */
+#planner .sources {
+	display: inline-block;
+	float: left;
+	width: 250px;
+	border: 1px solid #000000;
+}
+#planner .targets {
+	display: inline-block;
+	float: right;
+	width: 250px;
+	border: 1px solid #000000;
+}
+#planner .middle {
+	display: inline-block;
+	float: left;
+	border: 1px solid #000000;	
+}
+
+#planner ul.plannerList li ul li {
+	display: inline;
+	list-style-type: none;
+}
+
+img.float {
+	float: right;
+	display: block;
+	clear: right;
+	padding: 2px 2px 2px 2px;
+}
+
+#planner ul.plannerList li ul {
+	display: inline;
+	border: 1px solid #000000;
+	margin: 0 0 0 0;
+	list-style-type: none;
+	-webkit-padding-start: 0px;
+	padding: 0 0 0 0;
+}
+
+#planner ul.plannerList {
+	display: inline;
+	list-style-type: none;
+	-webkit-padding-start: 0px;
+	padding: 0 0 0 0;
+}
+
+#planner ul.plannerList li {
+	list-style-type: none;
+	display: block;
+}
+
+#bottomBox {
+	text-align: center;
+}
+
+#bottomBox a {
+	text-decoration: none;
+	color: #000000;
+}

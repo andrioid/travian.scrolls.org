@@ -1,0 +1,51 @@
+#top_bar {
+	float: center;
+	clear: both;
+	width: 98%;
+	padding: 0px 10px 0px 10px;
+	margin: 0px 0px 0px 0px;
+}
+
+#top_bar #textfield {
+	width: 150px;
+}
+
+#top_bar h1 a {
+	float: left;
+	font-size: 0.65em;
+	font-family: serif;
+	background: url('/img/tsicon32.png') left no-repeat;
+	text-decoration: none;
+	padding: 2px 0px 2px 40px;
+	color: #000000;
+}
+
+#top_bar .toplinks a {
+	font-size: 0.9em;
+	text-decoration: none;
+	color: #000000;
+}
+
+#top_bar .toplinks .new {
+	color: #bb0000;
+}
+
+#top_bar .toplinks .rdc {
+	background: url('/maps/images/find.png') left no-repeat;
+	padding: 2px 0px 2px 20px;
+}
+
+#top_bar .toplinks .af {
+	background: url('/maps/images/group.png') left no-repeat;
+	padding: 2px 0px 2px 20px;
+}
+
+#top_bar .toplinks .stats {
+	background: url('/maps/images/chart_bar.png') left no-repeat;
+	padding: 2px 0px 2px 20px;
+}
+
+#top_bar .toplinks .maps {
+	background: url('/maps/images/map.png') left no-repeat;
+	padding: 2px 0px 2px 20px;
+}

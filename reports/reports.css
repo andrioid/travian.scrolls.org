@@ -1,0 +1,14 @@
+body, td {
+	font-family: "Verdana, Helvetica, Arial";
+	font-size: 14px;
+}
+
+td {
+	border: 0.5px solid #EEEEEE;
+	padding: 5px, 5px, 5px, 5px;
+	font-size: 14px;
+}
+
+#units {
+	text-align: right;
+}

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://travian.scrolls.org/</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/af/</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/maps/</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/?server=s2.travian.dk&amp;x=0&amp;y=0&amp;idle=1</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/?server=s2.travian.dk&amp;x=0&amp;y=0&amp;idle=1&amp;speed=7</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/?server=s2.travian.dk&amp;x=0&amp;y=0&amp;idle=0&amp;speed=7&amp;size=400</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/?server=s2.travian.dk&amp;x=0&amp;y=0&amp;p=andrioid,hamilton,slambert,multihunter</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/?server=s2.travian.dk&amp;x=0&amp;y=0&amp;a=BIW,Krigerne</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/?server=s1.travian.com&amp;x=0&amp;y=0&amp;qt=a&amp;maxd=100</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/wm/</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/maps/s1.travian.dk?x=0&amp;y=0</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/maps/s1.travian.dk?zoom=1</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/maps/s2.travian.dk?x=0&amp;y=0</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/maps/s2.travian.dk?zoom=1</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/maps/s3.travian.dk?x=0&amp;y=0</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/maps/s3.travian.dk?zoom=1</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/maps/s4.travian.dk?x=0&amp;y=0</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/maps/s4.travian.dk?zoom=1</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/maps/speed.travian.dk?x=0&amp;y=0</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/maps/speed.travian.dk?zoom=1</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/maps/s1.travian.com?x=0&amp;y=0</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/maps/s1.travian.com?zoom=1</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/maps/s2.travian.com?x=0&amp;y=0</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/maps/s2.travian.com?zoom=1</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/maps/s3.travian.com?x=0&amp;y=0</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/maps/s3.travian.com?zoom=1</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/maps/speed.travian.com?x=0&amp;y=0</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/maps/speed.travian.com?zoom=1</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/maps/s4.travian.com?x=0&amp;y=0</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/maps/s4.travian.com?zoom=1</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/maps/s5.travian.com?x=0&amp;y=0</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/maps/s5.travian.com?zoom=1</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/maps/s6.travian.com?x=0&amp;y=0</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/maps/s6.travian.com?zoom=1</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/maps/s7.travian.com?x=0&amp;y=0</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/maps/s7.travian.com?zoom=1</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/maps/speed.travian.co.uk?x=0&amp;y=0</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/maps/speed.travian.co.uk?zoom=1</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/maps/s5.travian.dk?x=0&amp;y=0</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/maps/s5.travian.dk?zoom=1</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/maps/s8.travian.com?x=0&amp;y=0</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/maps/s8.travian.com?zoom=1</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/maps/s1.travian.lt?x=0&amp;y=0</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/maps/s1.travian.lt?zoom=1</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/maps/s4.travian.co.uk?x=0&amp;y=0</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/maps/s4.travian.co.uk?zoom=1</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/maps/x2.travian.com?x=0&amp;y=0</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://travian.scrolls.org/maps/x2.travian.com?zoom=1</loc>
+  <changefreq>daily</changefreq>
+</url>
+</urlset>

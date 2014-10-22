@@ -1,0 +1,189 @@
+#main_container {
+	width: 100%;
+	height: 90%;
+}
+
+#map {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	background-color: #EDFBEB;
+}
+
+#map canvas {
+	/* border: #000000 solid 1px; */
+	/* background-color: #C4FCC4; */
+	position: fixed;
+}
+
+#map #infobox {
+	display: none;
+	position:absolute;
+	background: #ffffff;
+	border: 1px #000000 solid;
+	width:200px;
+	height:100px;
+	z-index:9999;
+	padding:10px;
+}
+
+#map #hoverbox {
+	display: none;
+	position:absolute;
+	background: url('images/alpha50.png') left repeat;
+	color: #FFFFFF;
+	width:200px;
+	/* height:40px; */
+	z-index:9999;
+	font-size: 0.9em;
+	padding:5px;
+}
+
+#map #statusbox {
+	display: none;
+	position:absolute;
+	background: url('images/alpha50.png') left repeat;
+	color: #FFFFFF;
+	width:200px;
+	/* height:40px; */
+	z-index:9999;
+	font-size: 0.9em;
+	padding:5px;
+}
+
+#map #hoverbox #player {
+	display: inline;
+	padding-left: 20px;
+	/* text-indent:-999999px; */
+	background: url('images/user.png') left no-repeat;
+}
+
+#map #hoverbox #village {
+	display: inline;
+	padding-left: 20px;
+	/* text-indent:-999999px; */
+	background: url('images/house.png') left no-repeat;
+}
+
+#map #hoverbox #xy {
+	float: right;
+}
+
+#map #status {
+	display: block;
+	position: absolute;
+	font-size: 0.9em;
+	bottom: 10px;
+	right: 10px;
+}
+
+#map #goto {
+	display: block;
+	position: absolute;
+	background: url('images/alpha50-white.png') left repeat;
+	top: 10px;
+	right: 10px;
+	padding: 5px;
+}
+
+#map #goto #inp_x, #map #goto #inp_y {
+	width: 30px;
+	text-align: right;
+	border: 1px solid #009000;
+}
+
+#map #goto #submit {
+	border: none;
+	background: url('images/btngo.png') no-repeat top left;	
+	text-indent: -999999px;
+	width: 23px;
+	height: 20px;
+}
+
+#map #mask {
+  z-index:9000;
+  background-color:#000;
+  display:none;
+  position:absolute;
+}
+
+#map #controls {
+	display: block;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	margin: 10px 0 0 5px;
+}
+
+#map #buttons {
+	display: block;
+	position: relative;
+}
+
+#map a {
+	position: absolute;
+	display: block;
+	text-indent:-999999px;
+	float: left;
+	width: 20px; height: 20px;
+}
+
+#map #moveleft {
+	top: 20px;
+	left: 0px;
+	background: url('images/btnleft.png') left no-repeat;
+}
+
+#map #moveright {
+	top: 20px;
+	left: 20px;
+	background: url('images/btnright.png') left no-repeat;
+}
+
+#map #moveup {
+	top: 0px;
+	left: 10px;
+	background: url('images/btnup.png') left no-repeat;
+	clear: both;
+}
+
+#map #movedown {
+	top: 40px;
+	left: 10px;
+	background: url('images/btndown.png') left no-repeat;
+}
+
+#map #zoomin {
+	top: 80px;
+	left: 10px;
+	background: url('images/btnplus.png') left no-repeat;
+}
+
+#map #zoomout {
+	top: 100px;
+	left: 10px;
+	background: url('images/btnminus.png') left no-repeat;
+} 
+
+#map #statusbox .icon {
+	display: block;
+	float: right;
+}
+
+#map #statusbox .wait {
+	width: 30px;
+	height: 32px;
+	background: url('images/wait.gif') left no-repeat;
+}
+
+#map #statusbox .error {
+	width: 28px;
+	height: 20px;
+	background: url('images/surrender.gif') left no-repeat;
+}
+
+#map #statusbox .browsererror {
+	width: 28px;
+	height: 20px;
+	background: url('images/luvfirefox.gif') left no-repeat;
+}

@@ -1,0 +1,1 @@
+<?php Header("Location: http://travian.scrolls.org/stats/?a=K-The+G%2CK-CULT+R%2CK-CULT+C%2CK-CULT+E%2CK-CULT+A%2CK-CULT+N%2CK-Mini%2CK-WTH_SV%2CK-UeS%2CK-MN%2CK-WTH%2CK-NATO+2%2CK-NATO%2CK-WTHS%D8&sid=14"); ?>

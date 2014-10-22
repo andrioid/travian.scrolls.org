@@ -1,0 +1,54 @@
+body {
+	font-family: "Verdana, Arial, Helvetica";
+	font-size: 10pt;
+}
+
+td {
+	font-family: "Verdana, Arial, Helvetica";
+	font-size: 10pt;
+	vertical-align: top;
+	sborder-width: 1px;
+	sborder-style: solid;
+	border: 0.5px solid #BCBCBC;
+	padding: 5px;
+}
+
+input.coord {
+	width: 30px;
+}
+table.results {
+	padding: 2px;
+	border-spacing: 0px;
+	sborder-collapse: collapse;
+}
+table.top {
+	border-spacing: 0px;
+	padding: 3px;
+}
+tr.highlight {
+	font-weight: bold;
+}
+tr.odd {
+	background: #EEEEEE;
+}
+tr.even {
+	background: #FFFFFF;
+}
+
+span.roman {
+	color: red;
+}
+span.gaul {
+	color: green;
+}
+span.teuton {
+	color: blue;
+}
+span.tiny {
+	font-size: 7pt;
+}
+.rbg {
+	background-color: #FFFFFF; 
+	font-weight:bold; 
+	background-image: url(img/c2.gif);
+}

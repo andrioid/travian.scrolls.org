@@ -1,0 +1,20 @@
+Public Methods:
+----------------------
+open
+close
+
+selectedIndex(index)
+set
+get
+	visible
+	add
+	remove
+	disabled
+form
+item
+namedItem
+
+addMyEvent
+	
+fireEvent
+	

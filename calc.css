@@ -1,0 +1,225 @@
+body, td {
+	font-family: sans-serif;
+	font-size: 0.8em;
+}
+
+td {
+	vertical-align: top;
+	border: 0.5px solid #BCBCBC;
+	padding: 5px;
+}
+
+input.coord {
+	width: 30px;
+}
+
+table.results {
+	padding: 2px;
+	border-spacing: 0px;
+}
+table.top {
+	border-spacing: 0px;
+	padding: 3px;
+}
+tr.highlight {
+	font-weight: bold;
+}
+tr.odd {
+	background: #EEEEEE;
+}
+tr.even {
+	background: #FFFFFF;
+}
+
+.roman a {
+	color: red;
+	text-decoration: none;
+}
+.gaul a {
+	color: green;
+	text-decoration: none;
+}
+.teuton a {
+	color: blue;
+	text-decoration: none;
+}
+
+span a:hover {
+	text-decoration: underline;
+}
+
+.roman {
+	color: red;
+}
+.gaul {
+	color: green;
+}
+.teuton {
+	color: blue;
+}
+
+span.tiny {
+	font-size: 0.8em;
+}
+.rbg {
+	background-color: #FFFFFF; 
+	font-weight:bold; 
+	background-image: url(img/c2.gif);
+}
+
+#top_section {
+	float: left;
+	padding-right: 20px;
+}
+
+#top_section input {
+	border: 1px solid #BCBCBC;
+}
+
+#top_section #submit {
+	border: 0.5px solid #BCBCBC;
+	background: #BCBCBC;
+	color: #000000;
+	font-size: 1em;
+	font-weight: bold;
+	height: 20px;
+	width: 100px;
+}
+
+#focusborder {
+	border: 1px solid #FF0000;
+	padding: 5px 5px 5px 5px;
+}
+
+#mid_bar {
+	float: left;
+	padding: 2px 2px 10px 10px;
+	margin: 0px 0px 0px 0px;
+	border: 0.5px solid #BCBCBC;
+}
+
+#map_bar {
+	float: left;
+	margin-top: 10px;
+	font-size: 1.1em;
+	padding: 2px 2px 2px 2px;
+	text-align: center;
+}
+
+#error_bar {
+	float: left;
+	padding: 2px 10px 10px 10px;
+	margin: 0px 10px 0px 0px;
+	border: 0.5px solid #BCBCBC;
+	background: #FFE6E5;
+	font-size: 11px;
+	width: 300px;
+}
+#error_bar h3 {
+	font-size: 1.2em;
+}
+
+.hugetext {
+	font-weight: bold;
+}
+.hugetext a {
+	text-decoration: none;
+	color: #000000;
+}
+.tinytext {
+	font-size: 0.9em;
+}
+.tinytext a {
+	color: #000000;
+	text-decoration: none;
+}
+
+.aline a {
+	text-decoration: none;
+	color: black;
+}
+.aline a:hover {
+	text-decoration: underline;
+}
+
+select .server option {
+background-repeat:no-repeat;
+background-position:bottom left;
+padding-left:30px;
+}
+.server #dk {
+		background-image:url(/img/flags/dk.gif);
+		background-repeat:no-repeat;
+		background-position:bottom left;
+		padding-left: 20px;
+}
+.server #uk {
+		background-image:url(/img/flags/gb.gif);
+		background-repeat:no-repeat;
+		background-position:bottom left;
+		padding-left: 20px;
+}
+.server #lt {
+		background-image:url(/img/flags/lt.gif);
+		background-repeat:no-repeat;
+		background-position:bottom left;
+		padding-left: 20px;
+}
+.server #com {
+		background-image:url(/img/world.gif);
+		background-repeat:no-repeat;
+		background-position:bottom left;
+		padding-left: 20px;
+}
+
+#top_bar {
+	float: center;
+	clear: both;
+	width: 98%;
+	padding: 0px 10px 0px 10px;
+	margin: 0px 0px 0px 0px;
+}
+
+#top_bar #textfield {
+	width: 150px;
+}
+
+#top_bar h1 a {
+	float: left;
+	font-size: 0.65em;
+	font-family: serif;
+	background: url('/img/icon_scroll.gif') left no-repeat;
+	text-decoration: none;
+	padding: 2px 0px 2px 30px;
+	color: #000000;
+}
+
+#top_bar .toplinks a {
+	font-size: 0.9em;
+	text-decoration: none;
+	color: #000000;
+}
+
+#top_bar .toplinks .new {
+	color: #bb0000;
+}
+
+#top_bar .toplinks .rdc {
+	background: url('/maps/images/find.png') left no-repeat;
+	padding: 2px 0px 2px 20px;
+}
+
+#top_bar .toplinks .af {
+	background: url('/maps/images/group.png') left no-repeat;
+	padding: 2px 0px 2px 20px;
+}
+
+#top_bar .toplinks .stats {
+	background: url('/maps/images/chart_bar.png') left no-repeat;
+	padding: 2px 0px 2px 20px;
+}
+
+#top_bar .toplinks .maps {
+	background: url('/maps/images/map.png') left no-repeat;
+	padding: 2px 0px 2px 20px;
+}
